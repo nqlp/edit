@@ -45,14 +45,16 @@
 * [Yupp.ai](https://yupp.ai/) - Gemini 3 Pro / GPT-5.1-high / Grok 4.1 / Qwen 3 Max / Google Login / [Discord](https://discord.com/invite/yuppai)
 * [⁠ISH](https://ish.chat/) - GPT-5 / Grok 4.1 / Kimi K2 / Multiple Chatbots / No Sign-Up / [Discord](https://discord.gg/cwDTVKyKJz)
 * [HiveChat](https://oi.wr.do/) - Kimi K2 / DeepSeek R1-0528 / Multiple Chatbots / Sign-Up Required / [Discord](https://discord.gg/AYFPHvv2jT) / [GitHub](https://github.com/lobehub/lobe-chat)
+* [zAI](https://zai.is/) - o3-pro / GPT-5.2 / Claude 4 Opus / Gemini 2.5 Pro / [Discord](https://discord.gg/z-ai) Required
 * [⁠Together.ai](https://chat.together.ai/) - DeepSeek V3.1 / Qwen 3 235B-2507 / Up-To 110 Daily / [Discord](https://discord.gg/9Rk6sSeWEG)
 * [Duck AI](https://duck.ai/) - GPT-5 mini / Multiple Chatbots / No Sign-Up
 * [⁠Woozlit](https://woozlit.com/) - Gemini 3 / Multiple Chatbots / No Sign-Up
+* [Pollinations](https://chat.pollinations.ai/) - Multiple Chatbots / No Sign-Up
 * [Groq](https://groq.com/) - Kimi K2-0905 / GPT-OSS 120B / Sign-Up Required / [Discord](https://discord.com/invite/e6cj7aA4Ts)
 * [AI Assistant](https://aiassistantbot.pages.dev/) - Deepseek-R1 / Qwen QwQ-32B / Multiple Chatbots / No Sign-Up
 * [Scira](https://scira.ai/) - Grok 4 / Qwen 3 / AI Search Engine / No Sign-Up / [GitHub](https://github.com/zaidmukaddam/scira)
 * [NVIDIA NIM](https://build.nvidia.com/) - DeepSeek V3.1 / Kimi K2 / Multiple Chatbots / No Sign-Up
-* [FreePass](https://freepass.ai/) - Gemini 2.5 Pro/ GPT-5-chat / No Sign-Up / [Telegram](https://t.me/freepass_ai)
+* [FreePass](https://freepass.ai/) - Gemini 2.5 Pro / GPT-5-chat / No Sign-Up / [Telegram](https://t.me/freepass_ai)
 * [Genspark](https://www.genspark.ai/) - GPT-5-high / Gemini 3 Pro / Grok 4.1 / Sign-Up Required / [Discord](https://discord.com/invite/CsAQ6F4MPy)
 
 ***
@@ -145,7 +147,7 @@
 * ↪️ **[Coding AI Benchmarks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_coding_benchmarks)**
 * [Gemini CLI](https://google-gemini.github.io/gemini-cli/) or [AIStudio](https://aistudio.google.com/app/apps) - Coding AI / [GitHub](https://github.com/google-gemini/gemini-cli)
 * [GitHub Copilot](https://github.com/features/copilot) - Coding AI
-* [⁠Google Antigravity](https://antigravity.google/) - Coding AI / Gemini 3 / Opus 4.5 / Limits Reset Every 5 Hours
+* [⁠Google Antigravity](https://antigravity.google/) - Coding AI / Gemini 3 / Opus 4.5 / Limits Reset Weekly
 * [Sourcery](https://sourcery.ai/) - Auto-Pull Request Reviews / [GitHub](https://github.com/sourcery-ai/sourcery)
 * [Devv](https://devv.ai/) - Coding Search Engine / [GitHub](https://github.com/devv-ai/devv)
 * [⁠Roo Code](https://roocode.com/) / [GitHub](https://github.com/RooCodeInc/Roo-Code) or [Cline](https://cline.bot/) / [Discord](https://discord.gg/cline) / [GitHub](https://github.com/cline/cline) - Coding AI
@@ -217,7 +219,6 @@
 * [Jailbreak Listings](https://rentry.org/jb-listing) - Prompt Directory / Jailbreaks
 * [promptfoo](https://www.promptfoo.dev/) - Prompt Playgrounds / [Discord](https://discord.gg/gHPS9jjfbs) / [GitHub](https://github.com/promptfoo/promptfoo)
 * [Tensor Trust](https://tensortrust.ai/) / [GitHub](https://github.com/HumanCompatibleAI/tensor-trust) or [Gandalf](https://gandalf.lakera.ai/) / [GitHub](https://github.com/lakeraai) - Prompting Skill Games
-* [RedTeam Arena](https://redarena.ai/) - AI Jailbreak Game
 * [Gobble Bot](https://gobble.bot/) - Generate Text Files for Chatbots
 
 ***
@@ -234,7 +235,6 @@
 * [It's Better With AI](https://itsbetterwithai.com/) - AI Directory
 * [GPT Demo](https://www.gptdemo.net/gpt/search?lg=en&cate=&keywords=&tags=free,&sort=popular) - AI Directory
 * [ArtificialStudio](https://app.artificialstudio.ai/tools) - Multi-Tool Browser AIs / [Discord](https://discord.gg/EdNztJJH6z)
-* [LLM Pricing](https://docs.google.com/spreadsheets/d/18GHPEBJzDbICmMStPVkNWA_hQHiWmLcqUdEJA1b4MJM/) - LLM Pricing Index
 
 ***
 
@@ -247,7 +247,7 @@
 * [SEAL LLM Leaderboards](https://scale.com/leaderboard) - Chatbot Leaderboards
 * [Yupp Leaderboard](https://yupp.ai/leaderboard) - Chatbot Leaderboards / Benchmarks
 * [⁠RankedAGI](https://rankedagi.com/) - Chatbot Leaderboards / Benchmarks
-* [LLM Stats](https://llm-stats.com/) - Chatbot Leaderboard
+* [LLM Stats](https://llm-stats.com/) - Chatbot Leaderboard / [X](https://x.com/LlmStats) / [Discord](https://discord.com/invite/RxGUBvE42d)
 * [OpenLM Arena](https://openlm.ai/chatbot-arena/) - Chatbot Leaderboard
 * [Wolfram LLM Benchmarking Project](https://www.wolfram.com/llm-benchmarking-project/) - Chatbot Leaderboards / Benchmarks
 
@@ -297,7 +297,7 @@
 
 * 🌐 **[VBench](https://huggingface.co/spaces/Vchitect/VBench_Leaderboard)** - Video Generation Model Leaderboard
 * ⭐ **[Grok Imagine](https://grok.com/imagine)** - 100 Daily / Imagine 0.9 / [Subreddit](https://www.reddit.com/r/grok/) / [Discord](https://discord.com/invite/kqCc86jM55)
-* [Sora](https://openai.com/index/sora/) - 6 Daily / [Signup Guide](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#sora) / [Remove Watermarks](https://unmarkit.app/sora), [2](https://colab.research.google.com/drive/1Iqu4RZ9WAhcbO1Jn0wCkMOsw2l1p6z62)
+* [Sora](https://openai.com/index/sora/) - 6 Daily / [Signup Guide](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#sora) / [Remove Watermarks](https://unmarkit.app/sora)
 * [Bing Create](https://www.bing.com/images/create) - Sora 1 / No Image Input
 * [⁠GeminiGen AI](https://geminigen.ai/) - Unlimited / Sora 2 / Veo 3.1 / Nano Banana Pro
 * [Qwen](https://chat.qwen.ai/) - 10 Daily / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
@@ -328,11 +328,11 @@
 * [Grok](https://grok.com/) - 96 Daily / Editing / Sign-Up Required / [Subreddit](https://www.reddit.com/r/grok/) / [Discord](https://discord.com/invite/kqCc86jM55)
 * [Qwen](https://chat.qwen.ai/) - 30 Per 24 Hours / Editing / Sign-Up Required / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
 * [Yupp.ai](https://yupp.ai/) - Nano Banana Pro / GPT Image 1 / Seedream 4 / Qwen-Image / Google Login / [Discord](https://discord.com/invite/yuppai)
-* [⁠ISH](https://ish.chat/) - Unlimited / GPT Image 1 mini / Flux Kontext (dev) / Editing / No Sign-Up /[Discord](https://discord.gg/cwDTVKyKJz)
-* [PrisimAI](https://prisimai.github.io/PrisimAI/) - Seadream 4 / Nano Banana Pro / GPT Image-1 Mini
+* [⁠ISH](https://ish.chat/) - Unlimited / GPT Image 1 mini / Flux Kontext (dev) / Editing / No Sign-Up / [Discord](https://discord.gg/cwDTVKyKJz)
 * [⁠Image-Editor](https://image-editor.org/) - Unlimited / Editing / Nano Banana
 * [Recraft](https://www.recraft.ai/) - 30 Daily / Sign-Up Required / [Discord](https://discord.gg/recraft)
 * [PigenAI](https://pigenai.art/) - Unlimited / Imagen 4 / Qwen
+* [zAI](https://zai.is/) - Unlimited / Nano Banana Pro (4K) / [Discord](https://discord.gg/z-ai) Required
 * [LongCat AI](https://longcat.chat/) - 100 Daily / Editing
 * [⁠Ernie](https://ernie.baidu.com/) - Unlimited / Editing / Sign-Up Required
 * [⁠ZonerAI](https://zonerai.com/) - Unlimited / Editing

@@ -250,7 +250,7 @@
 ## ▷ PDF Conversion Tools
 
 * [Rare2PDF](https://rare2pdf.com/), [online2pdf](https://online2pdf.com/) or [2PDFConverter](https://www.2pdfconverter.com/) - File to PDF Conversion
-* [MD2PDF](https://md2pdf.netlify.app/) - Markdown to PDF Converter
+* [⁠Tideflow](https://github.com/BDenizKoca/Tideflow-md-to-pdf) or [MD2PDF](https://md2pdf.netlify.app/) - Markdown to PDF Converters
 * [PDFconvert](https://docupub.com/pdfconvert/) - PDF File Converters
 * [Marker](https://github.com/VikParuchuri/marker) - PDF to Markdown
 * [PDFCrowd](https://pdfcrowd.com/), [TailWindPDF](https://tailwindpdf.com/) or [wkhtmltopdf](https://wkhtmltopdf.org/) - HTML to PDF / Image Converter
@@ -275,12 +275,13 @@
 * [croc](https://github.com/schollz/croc) - Desktop / Mobile Transfer / [GUI](https://github.com/howeyc/crocgui)
 * [LANDrop](https://landrop.app/) - Desktop / Mobile Transfer
 * [⁠Clip Fish](https://clip.fish/) - Desktop / Mobile Transfer
+* [IPFS](https://ipfs.tech/) - Desktop / Mobile Transfer
+* IPFS Tools - [Resources](https://awesome.ipfs.tech/), [2](https://github.com/ipfs/awesome-ipfs) / [Extension](https://github.com/ipfs/ipfs-companion) / [Desktop](https://github.com/ipfs/ipfs-desktop) / [IPFS Cluster](https://ipfscluster.io/)
 * [aQRoss](https://aqross.app/) or [qrcp](https://qrcp.sh/) / [GitHub](https://github.com/claudiodangelis/qrcp) - Share Files Using QR Codes
 * [OnionShare](https://onionshare.org/) - Share Files Over Tor Network
 * [FileZilla](https://filezilla-project.org/download.php?show_all=1) - FTP Client / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#filezilla)
 * [WinSCP](https://winscp.net/eng/index.php) - FTP Client
 * [⁠robocopy](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/robocopy) - Windows Built-In File Transfer Guide
-* IPFS Tools - [Resources](https://awesome.ipfs.tech/), [2](https://github.com/ipfs/awesome-ipfs) / [Extension](https://github.com/ipfs/ipfs-companion) / [Desktop](https://github.com/ipfs/ipfs-desktop) / [IPFS Cluster](https://ipfscluster.io/)
 
 ***
 
@@ -313,6 +314,7 @@
 * ⭐ **[⁠Rootz](https://rootz.so/)** - 25GB / 15 Days After Last Download / Unlimited for Backstage Users / [Discord](https://discord.com/invite/rtz)
 * ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever / [Proxy](https://fatbox.moe/)
 * ⭐ **[Pillowcase](https://pillows.su/)** - Audio File Host / 200MB (500MB w/ Account) / Forever
+* [⁠ZeroFS](https://zerofs.link/) - Unlimited / 30 Days After Last Download / [CLI](https://github.com/kirmola/zerofs-cli) / [Discord](https://discord.gg/PJWsgUt7XM)
 * [FileMirage](https://filemirage.com/) - 50GB / 30 Days After Last View
 * [Send.now](https://send.now/) - 100GB / 15 Days After Last Download
 * [Transfer.it](https://transfer.it/) / Unlimited / 90 Days / Owned by Mega.nz
@@ -380,14 +382,14 @@
 
 ## ▷ Cloud Storage
 
-* **Note** - Monthly prices are based on annual plans. 2TB prices are halved for comparison if a 1TB plan doesn't exist for a service.
+* **Note** - Free plan storage / Free plan account inactivity deletion / Avg monthly price per TB (annual plan).
 
 ***
 
 * 🌐 **[Eylenburg Comparisons](https://eylenburg.github.io/cloud_comparison.htm)** or [ComparisonTabl.es](https://comparisontabl.es/cloud-storage/) - Compare Cloud Storage Sites
 * ⭐ **[Google Drive](https://drive.google.com/)** - 15GB Free / 2 Years
-* ⭐ **[mega](https://mega.io/)** - 20GB Free / 3 Months / ~$4.50 for 1TB / [GitHub](https://github.com/meganz)
-* [disk.yandex](https://disk.yandex.com/) - 5GB Free / 2 Years / $2 for 1TB
+* ⭐ **[mega](https://mega.io/)** - 20GB Free / 1 Month / ~$10 for 3TB / [GitHub](https://github.com/meganz)
+* [disk.yandex](https://disk.yandex.com/) - 5GB Free / 2 Years / ~$2 for 1TB
 * [filen](https://filen.io/) - 10GB Free / 3 Months / ~$8 for 1TB / Sign-Up Required for Sharing
 * [Dropbox](https://www.dropbox.com/) - 1 or 2GB Free / 12 Months / ~$5 for 1TB / [Client](https://github.com/SamSchott/maestral)
 * [mediafire](https://www.mediafire.com/) - 10GB Free / 8 Months / $5 for 1TB

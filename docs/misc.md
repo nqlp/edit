@@ -263,6 +263,7 @@
 
 * ↪️ **[Concerts / Live Shows](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio/#wiki_.25B7_concerts_.2F_live_shows)**
 * ⭐ **[Atlas Obscura](https://www.atlasobscura.com/)** / [Mobile](https://app.atlasobscura.com/), [Wikivoyage](https://www.wikivoyage.org) or [WikiTravel](https://wikitravel.org/) - Travel Guides
+* [⁠CozyCozy](https://www.cozycozy.com/) - Compares 100+ Travel Accommodation Sites 
 * [⁠Ikuyo](https://ikuyo.kenrick95.org/) - Trip / Travel Planning
 * [Roadside America](https://www.roadsideamerica.com/) - Roadside Attraction Guides
 * [Bike Sharing](https://bikesharingworldmap.com/) - Bike Rental Map
@@ -341,6 +342,7 @@
 * [Mini Tokyo 3D](https://minitokyo3d.com/) - Tokyo Public Transport Map
 * [rasp.yandex](https://rasp.yandex.ru/map/trains/) - Russia Public Transport Map
 * [kakaomap](https://map.kakao.com/) - Map of South Korea
+* [Skimap.org](https://skimap.org/) - Detailed Ski Maps
 
 ***
 
@@ -349,6 +351,7 @@
 * [OpenRailwayMap](https://www.openrailwaymap.org/) - World's Railway Infrastructure
 * [trains.fyi](https://trains.fyi/) - Real-Time North America Train Tracker
 * [amtrak explorer](https://amtrakexplorer.com/) - North America Railway Map
+* [Vanshnookenraggen Track Maps](https://www.vanshnookenraggen.com/_index/category/maps/track-maps/) - Detailed Subway Maps / History
 * [AP Transit](https://aptransit.co/) - NYC Live Subway Map
 * [Swiss Railways Network](https://maps.vasile.ch/transit-sbb/) - Switzerland Railway Map
 * [vr.fi](https://www.vr.fi/en/live-train-tracker-map) - Finland Train Tracker Map
@@ -598,7 +601,6 @@
 * [Medito](https://github.com/meditohq/medito-app) or [Heartfulness](https://www.heartfulnessapp.org/) - Meditation App
 * [IIB Mindfulness](https://informationisbeautiful.net/visualizations/what-is-meditation-mindfulness-good-for/) - Meditation Techniques / Infographic
 * [Conversations](https://conversations.movember.com/en/conversations/) - Mental Health Conversation Practice
-* [Plees Tracker](https://vmiklos.hu/plees-tracker/) - Sleep Tracker
 * [TripSit](https://tripsit.me/) / [Discord](https://discord.gg/tripsit), [Drugs.com](https://www.drugs.com/) or [DrugBank](https://go.drugbank.com/) - Drug Information / Side Effects
 
 ***
@@ -608,6 +610,7 @@
 * ⭐ **[Simple Science Fitness](https://ss.fitness/calculators)** - Fitness Calculators
 * ⭐ **[BMI Chart](https://en.wikipedia.org/wiki/Body_mass_index#/media/File:BMI_chart.png)** - BMI Range Graph
 * ⭐ **[Standard BMI Calculator](https://www.nhlbi.nih.gov/health/educational/lose_wt/BMI/bmicalc.htm)** - BMI Calculator
+* [Sleeping Guide](https://rentry.co/sleepguide) - Practices ⁠Sleeping Guide
 * [AMMFitness](https://www.ammfitness.co.uk/) - Fitness / Nutrition Info
 * [The Fitness Wiki](https://thefitness.wiki/) - Fitness Information Wiki
 * [FitoTrack](https://codeberg.org/jannis/FitoTrack), [Flexify](https://github.com/brandonp2412/Flexify) or [MyFitnessPal](https://www.myfitnesspal.com/) - Fitness Apps
@@ -686,12 +689,12 @@
 
 ## ▷ Sexual Health
 
+* ⭐ **[PlannedParenthood](https://www.plannedparenthood.org/)**, [Abortion Resources](https://redd.it/phrcrn) / [2](https://redd.it/vm56bs) or [Safe2Choose](https://safe2choose.org/) - Abortion Resources
+* ⭐ **[WomenOnWeb](https://www.womenonweb.org/en/page/521/who-we-are)** - Free Abortion Pills
 * [babycenter](https://www.babycenter.com/) - Pregnancy and Parenting Resources
 * [Pregnancy Calculator](https://americanpregnancy.org/resources/pregnancy-calculator/) - Due Date Calculator
 * [DoItRight](https://trust.ph/) or [Scarleteen](https://www.scarleteen.com/) - Sex Education Resources
 * [Euki](https://eukiapp.org/) - Sexual / Reproductive Health App
-* [Abortion Resources](https://redd.it/phrcrn) / [2](https://redd.it/vm56bs), [PlannedParenthood](https://www.plannedparenthood.org/) or [Safe2Choose](https://safe2choose.org/) - Abortion Resources
-* [WomenOnWeb](https://www.womenonweb.org/en/page/521/who-we-are) - Free Abortion Pills
 * [Tubal Sterilization](https://docs.google.com/spreadsheets/d/1Djia_WkrVO3S4jKn6odNwQk7pOcpcL4x00FMNekrb7Q/) - Tubal Sterilization Gynecologists
 * [Erin's Informed Consent HRT Map](https://redd.it/d6p05q) - Informed Consent HRT Clinics
 
@@ -1015,6 +1018,7 @@
 * [SpeakerRanking](https://www.speakerranking.com/) - Speaker Comparisons / Reviews
 * [Erin's Audio Corner](https://www.erinsaudiocorner.com/) or [Equipboard](https://equipboard.com/) - Audio Equipment Comparisons
 * [⁠Audio Test Kitchen](https://www.audiotestkitchen.com/) - Compare Microphone Sounds
+* [⁠The Great MicroSD Card Survey](https://www.bahjeez.com/the-great-microsd-card-survey/) - MicroSD Tests / Comparisons 
 * [Don’t kill my app!](https://dontkillmyapp.com/) - Manufacturer Battery Life vs. App Functionality
 * [PhoneSized](https://phonesized.com/) or [HotSpot3D](https://www.hotspot3d.com/) - Phone Size Comparisons
 * [Gamepadla](https://gamepadla.com/) - Gamepad / Controller Latency Tests
@@ -1032,7 +1036,7 @@
 ## ▷ Games
 
 * ↪️ **[Steam Store Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_store_tools)**
-* ⭐ **[GG.deals](https://gg.deals/)** - Multi-Store / MutlMultii-Platform / [Discord](https://discord.com/invite/NhsTFvdHXG)
+* ⭐ **[GG.deals](https://gg.deals/)** - Multi-Store / Multii-Platform / [Discord](https://discord.com/invite/NhsTFvdHXG)
 * ⭐ **[IsThereAnyDeal](https://isthereanydeal.com/)** - Multi-Store / [Discord](https://discord.com/invite/C3K4bBh)
 * ⭐ **[SteamDB](https://steamdb.info/sales/)** - Steam Sales / [Extension](https://steamdb.info/extension/) / [Discord](https://discord.com/invite/steamdb)
 * [⁠EGData](https://egdata.app/) - Epic Store Sales / [GitHub](https://github.com/nachoaldamav/egdata)
@@ -1094,7 +1098,7 @@
 
 * ↪️ **[Manual Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_manuals)** - Repair Articles / Manuals
 * ↪️ **[Mind Mapping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_mind_mapping)**
-* ↪️ **[Presentation Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_presentation_tools)**
+* ↪️ **[Presentation / Slideshare Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_presentation_tools)**
 * ↪️ **[Data Visualization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_data_visualization_tools)**
 * ↪️ **[Polling Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_poll_sites)**
 * ⭐ **[Versus](https://versus.com/)**, [SocialCompare](https://socialcompare.com/en) or [Diffen](https://www.diffen.com/) - Compare Anything
@@ -1241,7 +1245,7 @@
 * [Status.Cafe](https://status.cafe/) - Share Current Status
 * [TwoCansAndAString](https://twocansandstring.com/) or [TellOnMe](https://tellonym.me/) - Anonymous Q&A
 * [Earth 2050](https://2050.earth/) - Future Predictions
-* [FutureMe](https://www.futureme.org/) or [MessageToTheFuture](https://messagetothefutu.re/) - Send Messages to Future Self
+* [MessageToTheFuture](https://messagetothefutu.re/) or [FutureMe](https://www.futureme.org/) - Send Messages to Future Self
 * [PostSecret](https://postsecret.com/) - Share Secrets via Postcard
 * [PenPal World](https://www.penpalworld.com/) or [GlobalPenFriends](https://www.globalpenfriends.com/) - Pen Pal Community
 * [WriteAPrisoner](https://writeaprisoner.com/) - Pen Pals for Inmates

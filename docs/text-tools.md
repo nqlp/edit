@@ -222,10 +222,11 @@
 * ⭐ **[Obsidian](https://obsidian.md/)** - Markdown Note-Taking / [Discord](https://discord.gg/obsidianmd)
 * ⭐ **Obsidian Tools** - [Publish Notes](https://dg-docs.ole.dev/) / [Web Clipper](https://github.com/obsidianmd/obsidian-clipper) / [Google Drive Sync](https://github.com/stravo1/obsidian-gdrive-sync) / [Guides](https://help.obsidian.md/Home) / [Forum](https://forum.obsidian.md/)
 * ⭐ **[Notion](https://www.notion.com/)** - Note-Taking
-* ⭐ **Notion Tools** - [Templates](https://notionpages.com/) / [Resources](https://www.notioneverything.com/notion-world), [2](https://chief-ease-8ab.notion.site/List-of-200-Notion-Resources-e1b46cd365094265bd47b8a2b25bb41e) / [Guide](https://easlo.notion.site/Notion-Beginner-to-Advanced-8a492960b049433289c4a8d362204d20) / [Markdown Extractor](https://notionconvert.com/)
-* ⭐ **[AnyType](https://anytype.io/)** - Note-Taking / [GitHub](https://github.com/anyproto/anytype-ts)
-* ⭐ **[Logseq](https://logseq.com/)** - Outlining / [GitHub](https://github.com/logseq/logseq)
-* [AppFlowy](https://appflowy.com/) - Note-Taking / [GitHub](https://github.com/AppFlowy-IO/AppFlowy)
+* ⭐ **Notion Tools** - [Templates](https://notionpages.com/) / [Resources](https://www.notioneverything.com/notion-world), [2](https://chief-ease-8ab.notion.site/List-of-200-Notion-Resources-e1b46cd365094265bd47b8a2b25bb41e) / [Guide](https://easlo.notion.site/Notion-Beginner-to-Advanced-8a492960b049433289c4a8d362204d20) / [Markdown Extractor](https://notionconvert.com/) / [Web Clipper](https://www.notion.com/web-clipper)
+* ⭐ **[AnyType](https://anytype.io/)** - Note-Taking / [Telegram](https://t.me/anytype) / [GitHub](https://github.com/anyproto/anytype-ts)
+* ⭐ **[Simplenote](https://simplenote.com/)** - Note-Taking
+* ⭐ **[Logseq](https://logseq.com/)** - Outlining / [Discord](https://discord.com/invite/VNfUaTtdFb) / [GitHub](https://github.com/logseq/logseq)
+* [AppFlowy](https://appflowy.com/) - Note-Taking / [Discord](https://discord.com/invite/appflowy-903549834160635914) / [GitHub](https://github.com/AppFlowy-IO/AppFlowy)
 * [AFFiNE](https://affine.pro/) - Note-Taking / [GitHub](https://github.com/toeverything/AFFiNE)
 * [Lokus](https://www.lokusmd.com/) - Markdown Note-Taking / [GitHub](https://github.com/lokus-ai/lokus)
 * [Trilium](https://github.com/TriliumNext/Trilium) - Info Manager
@@ -239,7 +240,7 @@
 * [Memos](https://usememos.com/) - Note-Taking / [Discord](https://discord.gg/tfPJa4UmAv) / [GitHub](https://github.com/usememos/memos)
 * [Papers.IM](https://papers.im/) - Note-Taking
 * [Janta](https://app.janta.dev/) - Note-Taking
-* [Joplin](https://joplinapp.org/) - Note-Taking / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/joplin-web-clipper/) / [Chrome](https://chrome.google.com/webstore/detail/joplin-web-clipper/alofnhikmmkdbbbgpnglcpdollgjjfek?hl=en-GB) / [GitHub](https://github.com/laurent22/joplin)
+* [Joplin](https://joplinapp.org/) - Note-Taking / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/joplin-web-clipper/) / [Chrome](https://chrome.google.com/webstore/detail/joplin-web-clipper/alofnhikmmkdbbbgpnglcpdollgjjfek?hl=en-GB) / [Discord](https://discord.com/invite/d2HMPwE) / [GitHub](https://github.com/laurent22/joplin)
 * [MicroPad](https://getmicropad.com/) - Note-Taking
 * [WriteDown](https://writedown.app/) - Note-Taking
 * [DocMost](https://docmost.com/) - Note-Taking
@@ -260,7 +261,7 @@
 * ↪️ **[Office Activation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_windows_activation)** / [Custom Install Guide](https://massgrave.dev/office_c2r_custom)
 * ⭐ **[LibreOffice](https://www.libreoffice.org/)** - FOSS Office Suite
 * ⭐ **[OnlyOffice](https://www.onlyoffice.com/)** - FOSS Office Suite
-* ⭐ **[Microsoft Office](https://massgrave.dev/office_c2r_links)** - Office Suite / [Removal Tool](https://gitlab.com/-/project/11037551/uploads/f49f0d69e0aaf92e740a1f694d0438b9/OfficeScrubber_14.zip) / [Hotkeys](https://support.microsoft.com/en-us/office/keyboard-shortcuts-in-microsoft-365-e765366f-24fc-4054-870d-39b214f223fd)
+* ⭐ **[Microsoft Office](https://massgrave.dev/office_c2r_links)** - Office Suite / [Removal Tool](https://github.com/abbodi1406/BatUtil/blob/master/OfficeScrubber/README.md) / [Hotkeys](https://support.microsoft.com/en-us/office/keyboard-shortcuts-in-microsoft-365-e765366f-24fc-4054-870d-39b214f223fd)
 * [Calligra](https://calligra.org/) - FOSS Office Suite
 * [Office365Version](https://www.office365versions.com/) - Office 365 Version History
 
@@ -268,7 +269,6 @@
 
 ## ▷ Online Editors
 
-* ⭐ **[Simplenote](https://simplenote.com/)** - Local / Cloud Saves
 * ⭐ **[Proton Docs](https://proton.me/drive/docs)** - Local / Cloud Saves
 * ⭐ **[takenote](https://takenote.dev/)** - Local Saves
 * ⭐ **[Zen](https://zen.unit.ms/)** - Local Saves

@@ -301,6 +301,7 @@
 * [DrawingNow](https://www.drawingnow.com/) - Learn to Draw
 * [Drawingbooks.org](https://www.drawingbooks.org/) - Old Drawing Books
 * [Line of Action](https://line-of-action.com/), [Timed Figure Poses](https://www.youtube.com/playlist?list=PL7EWYwaF6E-FZ8JiBlz2tF1DQUCw-GCmn), [LoveLifeDrawing](https://www.lovelifedrawing.com/) or [Daily Life Drawing Sessions](https://www.youtube.com/playlist?list=PL7EWYwaF6E-Exv72kVT4yYJM2lX-Xf66I) - Figure Sketch Tools / Lessons
+* [AnatomyArchive](https://www.anatomyarchive.org/) - Human Anatomy Drawing Tutorials
 * [Artist Reference](https://artist-reference.com) - Photo References for Artists
 * [Reference Angle](http://referenceangle.com/) - Human Photo Reference Search
 * [x6ud](https://x6ud.github.io/#/) - Animal Photo Reference Search
@@ -1260,7 +1261,8 @@
 * [MicroCorruption](https://microcorruption.com/) - Learn Reverse Engineering / Cybersecurity
 * [x86re](https://x86re.com/) or [Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - Reverse Engineering Guides
 * [CrackMyApp](https://crackmy.app/) or [crackmes](https://crackmes.one/) / [Discord](https://discord.com/invite/2pPV3yq) - Reverse Engineering Challenges
-* [⁠Reverse Engineering Academy](https://reverseengineering.vercel.app/) - Interactive Reverse Engineering Lessons 
+* [⁠Reverse Engineering Academy](https://reverseengineering.vercel.app/) - Interactive Reverse Engineering Lessons
+* [⁠Nightmare](https://guyinatuxedo.github.io/) - Binary Exploitation Defense / Reverse Engineering Course
 * [John Hammond](https://www.youtube.com/@_JohnHammond) - Cybersecurity YouTube Tutorials
 * [Pentesting Bible](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) or [Juice Shop](https://owasp.org/www-project-juice-shop/) - Learn Pentesting
 * [How DNS Works](https://howdns.works/) - Learn DNS
@@ -1355,7 +1357,7 @@
 
 * 🌐 **[nanoHUB](https://nanohub.org/)** - Nanotechnology Tools
 * 🌐 **[5th STAAR Resource Curation](https://docs.google.com/document/d/1vxxEKhZe_7dd1XIxl_sETsqP__Rf-yPAnBhtwf8huKU/edit?usp=drivesdk)** - Grade School Tools
-* ↪️ **[Presentation Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_presentation_tools)**
+* ↪️ **[Presentation/ Slideshare tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_presentation_tools)**
 * ↪️ **[Data Visualization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_data_visualization_tools)**
 * ↪️ **[Grammar / Spell Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_grammar_check)**
 * ⭐ **[Excalidraw](https://excalidraw.com/)** / [Sharing](https://excalihub.dev/), **[OpenBoard](https://openboard.ch/index.en.html)**, [DGM](https://dgm.sh/), [NotebookCast](https://www.notebookcast.com/), [WebWhiteboard](https://webwhiteboard.com/), [Microsoft Whiteboard](https://apps.microsoft.com/detail/9MSPC6MP8FM4), [WBO](https://wbo.ophir.dev/), [OurBoard](https://www.ourboard.io/), [Whiteboard.fi](https://whiteboard.fi/) or [Whiteboard Fox](https://r3.whiteboardfox.com/) - Whiteboards
@@ -1377,7 +1379,6 @@
 * [Wordwall](https://wordwall.net/) - Lesson Creator
 * [The Chomsky Index](https://github.com/jasons-gh/the-chomsky-index) - Noam Chomsky Content Index Tool
 * [Internet-In-A-Box](https://internet-in-a-box.org/) - Create Free Offline Learning Hotspots / [GitHub](https://github.com/iiab/iiab)
-* [SlideShareDownloader](https://www.slidesdownloader.com/), [DownloaderSlides](https://downloderslides.com/), [SlidesDownloaders](https://slidesdownloaders.com/) or [SlideShareSaver](https://slidesharesaver.com/) - Download Slideshare Slides
 
 ***
 
@@ -1443,6 +1444,7 @@
 * [Kalker](https://kalker.xyz/) or [Numbat](https://numbat.dev/) - Scientific Calculators
 * [TICalc](https://www.ticalc.org/pub/) - TI Graphing Calculator Files
 * [arTIfiCE](https://yvantt.github.io/arTIfiCE/) - TI CE Calculator Jailbreak
+* [⁠Numla](https://numla.app/) - Live Calculative Notepad / [GitHub](https://github.com/davidesantangelo/numla)
 * [Cymath](https://www.cymath.com/), [PhotoMath](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search), [Mathway](https://www.mathway.com/), [MathDF](https://mathdf.com/), [Tiger Algebra](https://www.tiger-algebra.com/), [⁠Maxima](https://maxima.sourceforge.io/) or [Symbolab](https://www.symbolab.com/) - Math / Algebra Problem Solvers
 
 ***

@@ -383,7 +383,7 @@
 
 ## ▷ Video Editors
 
-* ⭐ **[kdenlive](https://kdenlive.org/en/)** - Video Editor / [GitHub](https://github.com/KDE/kdenlive)
+* ⭐ **[Kdenlive](https://kdenlive.org/en/)** - Video Editor / [GitHub](https://github.com/KDE/kdenlive)
 * ⭐ **[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)** - Video Editor / Sign-Up Required (Fake Info Works) / [Subtitle Generator](https://github.com/tmoroney/auto-subs) / [Discord](https://discord.gg/davinci-resolve-community-714620142096482314)
 * ⭐ **[LosslessCut](https://github.com/mifi/lossless-cut)** - Single Video Editor
 * ⭐ **[Shotcut](https://shotcut.org/)** - Video Editor / [GitHub](https://github.com/mltframework/shotcut)
@@ -503,7 +503,6 @@
 
 * 🌐 **[Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources#videos)** or **[CuteStockFootage](https://cutestockfootage.com/free/video)** - Stock Video Indexes
 * [Pexels](https://www.pexels.com/) - Stock Videos
-* [4K Media](https://4kmedia.org/) - 4K Stock Videos
 * [Dareful](https://dareful.com/) - 4K Stock Videos
 * [Monzoom](https://www.monzoom.com/) - 4K Stock Videos
 * [BeachFrontBroll](https://www.beachfrontbroll.com/) - Stock Videos
