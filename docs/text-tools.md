@@ -56,11 +56,12 @@
 * [ProtectedText](https://www.protectedtext.com/) - Multi-Tab
 * [⁠Memochō](https://bin.kv2.dev/) / [GitHub](https://github.com/SitiSchu/memocho) or [bin](https://basedbin.fly.dev/) - Minimal Pastebins
 * [txt.fyi](https://txt.fyi/) - Plain Text
+* [⁠paste.sh](https://paste.sh/) - Plain Text / [GitHub](https://github.com/dgl/paste.sh)
 * [MarkdownPastebin](https://markdownpastebin.com/) - Markdown Support
 * [Sparked Paste](https://paste.sparked.host/) - Plain Text / Syntax Highlighting / [GitHub](https://github.com/sparkedhost/paste)
 * [Riseup Pad](https://pad.riseup.net/) - WYSIWYG Pastebin
 * [itty.bitty](https://itty.bitty.site/) - Site / Pastebin / [GitHub](https://github.com/arfct/itty-bitty) 
-* [Opengist](https://opengist.io/) / [Demo](https://demo.opengist.io/) / [Discord](https://discord.gg/9Pm3X5scZT) / [GitHub](https://github.com/thomiceli/opengist) or [MicroBin](https://microbin.eu/) / [GitHub](https://github.com/szabodanika/microbin) - Self-Hosted Pastebins
+* [Opengist](https://opengist.io/) / [Demo](https://demo.opengist.io/) / [Discord](https://discord.gg/9Pm3X5scZT) / [GitHub](https://github.com/thomiceli/opengist), [Drift](https://drift.lol/) or [MicroBin](https://microbin.eu/) / [GitHub](https://github.com/szabodanika/microbin) - Self-Hosted Pastebins
 
 ***
 
@@ -75,7 +76,7 @@
 * ⭐ **[Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web)** (firefox), [⁠KISS Translator](https://github.com/fishjar/kiss-translator/blob/dev/README.en.md) or [Linguist Translator](https://github.com/translate-tools/linguist) - Browser Extensions
 * ⭐ **[r/Translator](https://www.reddit.com/r/translator/)** - Translation Request Community
 * [⁠Mozhi](https://codeberg.org/aryak/mozhi#instances) - Multi Translation Engine Frontend
-* [LibreTranslate](https://libretranslate.com/) - FOSS Translator / Self-Hosted / Offline / [GitHub](https://github.com/LibreTranslate/LibreTranslate)
+* [LibreTranslate](https://libretranslate.com/), [2](https://translate.disroot.org/) - FOSS Translator / Self-Hosted / Offline / [GitHub](https://github.com/LibreTranslate/LibreTranslate)
 * [Translate Shell](https://www.soimort.org/translate-shell/) - Translation CLI / [GitHub](https://github.com/soimort/translate-shell)
 * [Bing Translator](https://www.bing.com/translator) - Online
 * [Yandex Translator](https://translate.yandex.com/) - Online
@@ -137,7 +138,7 @@
 ***
 
 * ⭐ **[Harper](https://writewithharper.com/)** - Web App / Extension / [Discord](https://discord.com/invite/JBqcAaKrzQ) / [GitHub](https://github.com/automattic/harper)
-* [QuillBot](https://quillbot.com/grammar-check) - Web App / [Extension](https://quillbot.com/app) / [Features](https://rentry.co/FMHYB64#quill)
+* [QuillBot](https://quillbot.com/grammar-check) - Web App / [Extension](https://quillbot.com/app)
 * [Grammarly](https://www.grammarly.com/grammar-check) - Web App / [Extension](https://www.grammarly.com/browser)
 * [Writing Tools](https://github.com/theJayTea/WritingTools) - Desktop App
 * [DeepL Write](https://www.deepl.com/write) - Web App
@@ -164,7 +165,6 @@
 * [CopyChar](https://copychar.cc/)
 * [Unicode Table](https://symbl.cc/)
 * [Asciify Unicode](https://asciify.dev/unicode)
-* [Symbol.so](https://symbol.so/)
 * [Unicode Table](https://www.grogllc.com/unicodetable.html)
 * [Graphemica](https://graphemica.com/)
 * [SymbolSelect](https://www.symbolselect.com/)
@@ -435,7 +435,7 @@
 
 ## ▷ ASCII Art
 
-* ⭐ **[TAAG](https://patorjk.com/software/taag/)**, [DeepAA](https://github.com/OsciiArt/DeepAA), [Kammerl](https://www.kammerl.de/ascii/AsciiSignature.php), [ASCII Art Studio](https://www.majorgeeks.com/files/details/ascii_art_studio.html) or [ASCII Today](https://ascii.today/) - ASCII Art / Text Generators
+* ⭐ **[TAAG](https://patorjk.com/software/taag/)** [Kammerl](https://www.kammerl.de/ascii/AsciiSignature.php), [ASCII Art Studio](https://www.majorgeeks.com/files/details/ascii_art_studio.html) or [ASCII Today](https://ascii.today/) - ASCII Art / Text Generators
 * [REXPaint](https://www.gridsagegames.com/rexpaint/), [Asciistrator](https://wieslawsoltes.github.io/Asciistrator/), [ASCII Sketch](https://files.littlebird.com.au/ascii-sketch.html), [Playscii](https://jp.itch.io/playscii), [⁠Monosketch](https://monosketch.io/) or [PabloDraw](https://picoe.ca/products/pablodraw/) - ASCII Editors / Drawing
 * [ASCII Paint](https://ascii.alienmelon.com/), [⁠TextPaint](https://textpaint.com/) or [⁠ASCII Blaster](https://asdf.us/asciiblaster/), [2](https://ircart.github.io/asciiblaster/) / [GitHub](https://github.com/ircart/asciiblaster) - ASCII Paint Tools
 * [⁠shabzefilters](https://lumo-flt.vercel.app/), [ascii-art-generator](https://www.ascii-art-generator.org/), [asciiart](https://asciiart.club/), [ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter), [Monospace](https://codepen.io/Mikhail-Bespalov/pen/JoPqYrz), [ITOA](https://itoa.hex.dance/), [text-image](https://www.text-image.com/) or [ASCII-art-creator](https://github.com/CherryPill/ASCII-art-creator) - Image to ASCII Art
@@ -593,6 +593,7 @@
 * [Formito](https://formito.com/tools/logo) - Typography Logo Maker
 * [Type Terms](https://avark.agency/typeterms/) - Typography Cheat Sheet
 * [The Good Line-Height](https://thegoodlineheight.com/) - Typography Scaling Editor
+* [⁠Hyperglot](https://hyperglot.rosettatype.com/) - Font Language Support Checker
 * [So You Need A Typeface 2.0](https://ianli.github.io/so-you-need-a-typeface/) - Examples of Font Styles
 * [Type Design Resources](https://typedesignresources.com/) or [Free Faces](https://www.freefaces.gallery/) - Typeface Resources
 
@@ -603,6 +604,7 @@
 * ⭐ **[FontoGen](https://github.com/SerCeMan/fontogen)** or [⁠Refont](https://refont.ai/) - Custom AI Font Generators
 * ⭐ **[Make WordArt](https://www.makewordart.com/)**, [FlameText](https://www.flamingtext.com/), [MakeText](https://maketext.io/), [TextGiraffe](https://www.textgiraffe.com/), [Text Pro](https://textpro.me/) or [CoolText](https://cooltext.com/) - WordArt Generators / 3D Text
 * [Polona Typo](https://typo.polona.pl/en/) - Generate WordArt from Book, Poster, & Map Letters
+* [⁠PixelFrame](https://pixelframe.design/) - Custom Pop Culture Font / Graphic Generator
 * [⁠gradient text generator](https://lovewich.neocities.org/widgets/gradient-text), [Text Color Fader](https://patorjk.com/text-color-fader/) or [⁠Colorize FUN](https://colorize.fun/) - Rainbow Text Generator
 * [Fast3DText](https://fast3dtext.com/), [TextDrom](https://en.textdrom.com/), [3DText2GIF](https://3dtext2gif.com/) or [TextStudio](https://www.textstudio.com/) - Animated / 3D Text Generators
 * [Textanim](https://textanim.com/) or [Space Type Generator](https://spacetypegenerator.com/) - Animated Text Generators
